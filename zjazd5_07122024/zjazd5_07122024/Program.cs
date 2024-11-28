@@ -6,7 +6,7 @@ namespace zjazd5_07122024
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("No to pograne");
         }
     }
 }

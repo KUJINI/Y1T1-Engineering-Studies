@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zjazd5_07122024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1948851a656983354a4f2d6366b3a823da990df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff028fc49497e284feac14589c831fa142b1e709")]
 [assembly: System.Reflection.AssemblyProductAttribute("zjazd5_07122024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zjazd5_07122024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
