@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.exe
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.deps.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.runtimeconfig.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.dll
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\bin\Debug\netcoreapp3.1\zjazd5_07122024.pdb
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.sourcelink.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.dll
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.pdb
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\zjazd5_07122024\zjazd5_07122024\obj\Debug\netcoreapp3.1\zjazd5_07122024.genruntimeconfig.cache
