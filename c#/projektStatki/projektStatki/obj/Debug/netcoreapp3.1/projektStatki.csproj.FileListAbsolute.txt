@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.exe
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.deps.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.runtimeconfig.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.dll
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\bin\Debug\netcoreapp3.1\projektStatki.pdb
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.sourcelink.json
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.dll
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.pdb
+C:\Users\Admin\source\repos\KUJINI\Y1T1-Engineering-Studies\c#\projektStatki\projektStatki\obj\Debug\netcoreapp3.1\projektStatki.genruntimeconfig.cache
