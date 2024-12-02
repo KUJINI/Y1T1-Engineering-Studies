@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projektStatki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aabc623d99ba9013083d6bced8c124af1de931c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4165d9dda073e842c182bbfb9d0cd2c81448ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("projektStatki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projektStatki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
